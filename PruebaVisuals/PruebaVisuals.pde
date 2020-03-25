@@ -5,7 +5,7 @@ float widthgap;
 float heightgap;
 int cols = 10;
 int rows = 10;
-int numOfCubes;
+int numOfCubes; 
 
 Cube[] cubes;
 float backgroundOpacity = 10;
