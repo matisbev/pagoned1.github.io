@@ -9,7 +9,7 @@ class Cube{
   float size;
   float newSize;
   
-  float thickness;
+  float thickness; 
   float newThickness;
   
   float hue;
